@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![LinkedIn](https://icongr.am/devicon/linkedin-original.svg?size=50color=currentColor)](https://www.linkedin.com/in/kleber-andrade)
+[![LinkedIn](https://icongr.am/devicon/linkedin-original.svg?size=40color=currentColor)](https://www.linkedin.com/in/kleber-andrade)
 <div align="center">
   <a href="https://github.com/kleber-a">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kleber-a&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
