@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn](https://icongr.am/devicon/linkedin-original.svg?size=50color=currentColor)](https://www.linkedin.com/in/kleber-andrade)
 <div align="center">
   <a href="https://github.com/kleber-a">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kleber-a&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,4 +23,6 @@
   <img align="center" alt="Kleber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kleber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kleber-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Kleber-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Kleber-React" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
