@@ -22,23 +22,24 @@
     </tr>
     <tr>
       <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React Native</td>
+      <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"> Next.js</td>
       <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML5</td>
       <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS3</td>
-      <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> SCSS</td>
     </tr>
     <tr>
+      <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> SCSS</td>
       <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> Node.js</td>
       <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> Express.js</td>
       <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> Java</td>
-      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</td>
     </tr>
     <tr>
+      <td><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</td>
       <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"> Docker</td>
       <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> MySQL</td>
       <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> MongoDB</td>
-      <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> Jest</td>
     </tr>
     <tr>
+      <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"> Jest</td>
       <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg"> Chart.js</td>
       <td><img height="40" src="https://avatars.githubusercontent.com/u/51858080?s=200&v=4"> ApexCharts</td>
     </tr>
