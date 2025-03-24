@@ -48,6 +48,25 @@
 
 ---
 
+### 💻 Projetos  
+
+#### 🚀 React  
+- 📌 [Projeto 1](#) - Descrição.  
+- 📌 [Projeto 2](#) - Descrição.  
+
+#### 🔥 Angular  
+- 📌 [Projeto 1](#) - Descrição.  
+- 📌 [Projeto 2](#) - Descrição.  
+
+#### ⚡ Next.js  
+- 📌 [Projeto 1](#) - Descrição.  
+- 📌 [Projeto 2](#) - Descrição.  
+
+#### 🛠️ Node.js  
+- 📌 [Projeto 1](#) - Descrição.  
+- 📌 [Projeto 2](#) - Descrição.  
+
+
 ### 🛠️ Ferramentas e Metodologias  
 
 ✔️ Git & GitHub | GitLab  
