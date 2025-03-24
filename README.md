@@ -31,12 +31,14 @@
 <br />
 
 🛠️ Ferramentas e Metodologias
+<div style="display: flex; flex-direction: column">
 ✔️ Git & GitHub | GitLab
 ✔️ Scrum & Agile
 ✔️ Azure DevOps | Jira | Trello
 ✔️ Testes Unitários (Jasmine, Jest)
 ✔️ Integração com APIs REST
 ✔️ CI/CD com Docker
+</div>
 
 📫 Como me encontrar
 📧 E-mail: kleberandrade.dev@gmail.com
